@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-		<img src="https://icongr.am/devicon/wordpress-plain.svg?color=ffffff" alt="wordpress" width="40" height="40" />
+		<img style="background-color: #000;" src="https://icongr.am/devicon/wordpress-plain.svg?color=ffffff" alt="wordpress" width="40" height="40" />
 	</a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
