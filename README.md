@@ -9,7 +9,6 @@
   - [Eazygrid For Elementor](https://wordpress.org/plugins/eazygrid-for-elementor/).
 
 - 🌱 I’m currently learning:-
-  - **Vue**
   - **React**
 
 - 👯 I’m looking to collaborate on [WordPress Core](https://wordpress.org/)
